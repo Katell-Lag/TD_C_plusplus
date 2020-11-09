@@ -1,2 +1,3 @@
-language: cpp
-g++ -v
+language: gpp
+rvm:
+ - 7.5.0
